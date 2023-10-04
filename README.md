@@ -1,5 +1,7 @@
 # Yarin Bar's Portfolio
 
+*** NOTE: Info in the website is not up-to-date! ***
+
 This is my personal portfolio presenting my current profession and skills.  
 Was designed with CSS and built with React.js for the components, Swipe.js for the certificates slider and Email.js for the contact section.  
 
